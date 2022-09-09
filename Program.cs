@@ -4,6 +4,7 @@ namespace INF099
     {   
         //Versão 1.0
         //Versão 2.0
+        //Versão 3.2 --> Conflito com branch FeatureX
         
         static void Main(string[] args) {
             Console.WriteLine("Olá Professor!");
